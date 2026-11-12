@@ -1,3 +1,8 @@
+> **⚠️ 已遷移（Archived / Migrated）**
+> 這個專案已由 **[anthemjelly/ready-stack](https://github.com/anthemjelly/ready-stack)** 的
+> `packages/ready-python-docker-webapi/` 取代（真正可運行的 FastAPI + PostgreSQL 服務，含 Alembic、測試、CI）。
+> 新功能與修正只在 ready-stack 進行；本 repo 只保留作歷史紀錄。
+
 # Python Web API 專案
 [![Python Version](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com/)
